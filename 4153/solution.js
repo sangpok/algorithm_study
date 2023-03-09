@@ -5,18 +5,13 @@ const datas = fs.readFileSync(filePath).toString().trim().split('\n');
 function solution(datas) {
   console.log(
     datas
-      .map((data) => data.split(' ').map(Number))
-      .map((datas) => {
-        const maxNumber = Math.max(...datas);
-        const maxNumberIndex = datas.findIndex((value) => value === maxNumber);
-        const restNumbers = datas.filter(
-          (value, index) => value !== maxNumber && index !== maxNumberIndex
-        );
-
-        return restNumbers.map((value) => value ** 2).reduce((a, b) => a + b) === maxNumber ** 2
-          ? 'right'
-          : 'wrong';
-      })
+      .map((data) =>
+        data
+          .split(' ')
+          .map(Number)
+          .sort((a, b) => b - a)
+      )
+      .map((datas) => (datas[0] ** 2 === datas[1] ** 2 + datas[2] ** 2 ? 'right' : 'wrong'))
       .join('\n')
   );
 }
