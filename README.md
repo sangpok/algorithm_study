@@ -2,6 +2,32 @@
 
 solved.ac의 Class 중 Essential 문제를 공부합니다.
 
+### 2023.03.09
+
+> <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" /> 1018 - [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+
+> <img src="https://static.solved.ac/tier_small/6.svg" height="19px" width="19px" /> 1181 - [단어 정렬](https://www.acmicpc.net/problem/1181)
+
+> <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" /> 1920 - [수 찾기](https://www.acmicpc.net/problem/1920)
+
+---
+
+### 2023.03.06
+
+> <img src="https://static.solved.ac/tier_small/5.svg" height="19px" width="19px" /> 1259 - [팰린드롬수](https://www.acmicpc.net/problem/1259)
+
+> <img src="https://static.solved.ac/tier_small/5.svg" height="19px" width="19px" /> 2609 - [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)
+
+> <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" /> 2798 - [블랙잭](https://www.acmicpc.net/problem/2798)
+
+> <img src="https://static.solved.ac/tier_small/3.svg" height="19px" width="19px" /> 4153 - [직각삼각형](https://www.acmicpc.net/problem/4153)
+
+> <img src="https://static.solved.ac/tier_small/3.svg" height="19px" width="19px" /> 10250 - [ACM 호텔](https://www.acmicpc.net/problem/10250)
+
+> <img src="https://static.solved.ac/tier_small/5.svg" height="19px" width="19px" /> 11050 - [이항 계수 1](https://www.acmicpc.net/problem/11050)
+
+---
+
 ### 2023.03.06
 
 > <img src="https://static.solved.ac/tier_small/sprout.svg" height="19px" width="19px" /> 10951 - [A+B - 4](https://www.acmicpc.net/problem/10951)
