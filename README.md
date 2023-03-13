@@ -3,7 +3,7 @@
 <div align=center>
 <p><a href="https://solved.ac/class">solved.ac</a>의 Class 문제를 공부합니다.</p>
 <img src="https://static.solved.ac/class/c2s.svg" height="128px" width="128px" />
-<p>현재 <span style="font-weight: 800; color: lightblue;">Class2++</span></p>
+<h3>현재 <span style="font-weight: 800; color: lightblue;">Class2++</span></h3>
 </div>
 
 ### 2023.03.13
