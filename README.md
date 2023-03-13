@@ -1,6 +1,52 @@
 # algorithm_study
 
-solved.ac의 Class 중 Essential 문제를 공부합니다.
+<div align=center>
+<p><a href="https://solved.ac/class">solved.ac</a>의 Class 문제를 공부합니다.</p>
+<img src="https://static.solved.ac/class/c2s.svg" height="128px" width="128px" />
+<h3>현재 <span style="font-weight: 800; color: lightblue;">Class2++</span></h3>
+</div>
+
+### 2023.03.13
+
+> <img src="https://static.solved.ac/tier_small/3.svg" height="19px" width="19px" /> 1085 - [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
+
+> <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" /> 11866 - [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
+
+> <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" /> 2231 - [분해합](https://www.acmicpc.net/problem/2231)
+
+---
+
+### 2023.03.12
+
+> <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" /> 10828 - [스택](https://www.acmicpc.net/problem/10828)
+
+> <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" /> 10845 - [큐](https://www.acmicpc.net/problem/10845)
+
+> <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" /> 10866 - [덱](https://www.acmicpc.net/problem/10866)
+
+> <img src="https://static.solved.ac/tier_small/6.svg" height="19px" width="19px" /> 11650 - [좌표 정렬하기](https://www.acmicpc.net/problem/11650)
+
+---
+
+### 2023.03.11
+
+> <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" /> 2164 - [카드2](https://www.acmicpc.net/problem/2164)
+
+> <img src="https://static.solved.ac/tier_small/6.svg" height="19px" width="19px" /> 2751 - [수 정렬하기 2](https://www.acmicpc.net/problem/2751)
+
+> <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" /> 9012 - [괄호](https://www.acmicpc.net/problem/9012)
+
+---
+
+### 2023.03.10
+
+> <img src="https://static.solved.ac/tier_small/6.svg" height="19px" width="19px" /> 10814 - [나이순 정렬](https://www.acmicpc.net/problem/10814)
+
+> <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" /> 10816 - [숫자 카드 2](https://www.acmicpc.net/problem/10816)
+
+> <img src="https://static.solved.ac/tier_small/6.svg" height="19px" width="19px" /> 1978 - [소수 찾기](https://www.acmicpc.net/problem/1978)
+
+---
 
 ### 2023.03.09
 
