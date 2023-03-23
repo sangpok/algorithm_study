@@ -9,10 +9,12 @@
 </div>
 
 <br>
-<div>
+
 <table align="center">
-<caption style="text-align: left">되려나 ..</caption>
   <thead>
+    <th colspan="4" style="border: none; padding: 1rem 0;">
+      현재까지 푼 문제들
+    </th>
     <tr>
       <th>푼 날짜</th>
       <th>등급</th>
@@ -475,4 +477,3 @@
     </tr>
   </tbody>
 </table>
-</div>
