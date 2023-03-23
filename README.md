@@ -8,11 +8,9 @@
   <h3>현재 <span style="font-weight: 800; color: lightblue;">Class2++</span></h3>
 </div>
 
-<br>
-
 <table align="center">
   <thead>
-    <th colspan="4" style="border: none; padding: 1rem 0;">
+    <th colspan="4">
       현재까지 푼 문제들
     </th>
     <tr>
