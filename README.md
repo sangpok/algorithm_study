@@ -8,6 +8,8 @@
   <h3>현재 <span style="font-weight: 800; color: lightblue;">Class2++</span></h3>
 </div>
 
+<br>
+
 <table align="center">
   <thead>
     <th colspan="4">
@@ -22,6 +24,193 @@
   </thead>
   <tbody>
     <tr>
+      <td align="center">
+        2023.03.20
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/10773">10773</a>
+      </td>
+      <td>제로</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/11651">11651</a>
+      </td>
+      <td>좌표 정렬하기 2</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/18111">18111</a>
+      </td>
+      <td>마인크래프트</td>
+    </tr>    <tr>
+      <td align="center">
+        2023.03.19
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/2839">2839</a>
+      </td>
+      <td>설탕 배달</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/4949">4949</a>
+      </td>
+      <td>균형잡힌 세상</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/7568">7568</a>
+      </td>
+      <td>덩치</td>
+    </tr>    <tr>
+      <td align="center">
+        2023.03.18
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/1966">1966</a>
+      </td>
+      <td>프린터 큐</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/2108">2108</a>
+      </td>
+      <td>통계학</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/2805">2805</a>
+      </td>
+      <td>나무 자르기</td>
+    </tr>    <tr>
+      <td align="center">
+        2023.03.16
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/1654">1654</a>
+      </td>
+      <td>랜선 자르기</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/1874">1874</a>
+      </td>
+      <td>스택 수열</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/1929">1929</a>
+      </td>
+      <td>소수 구하기</td>
+    </tr>    <tr>
+      <td align="center">
+        2023.03.15
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/1436">1436</a>
+      </td>
+      <td>영화감독 숌</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/15829">15829</a>
+      </td>
+      <td>Hashing</td>
+    </tr>    <tr>
+      <td align="center">
+        2023.03.14
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/3.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/2292">2292</a>
+      </td>
+      <td>벌집</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/2775">2775</a>
+      </td>
+      <td>부녀회장이 될테야</td>
+    </tr>    <tr>
+      <td align="center">
+        -
+      </td>
+      <td align="center">
+        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+      </td>
+      <td>
+        <a href="https://www.acmicpc.net/problem/2869">2869</a>
+      </td>
+      <td>달팽이는 올라가고 싶다</td>
+    </tr>    <tr>
       <td align="center">
         2023.03.13
       </td>
