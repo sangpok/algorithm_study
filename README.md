@@ -20,7 +20,6 @@
               <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" /> 2231 - [분해합](https://www.acmicpc.net/problem/2231)
         </li>
       </ul>
-
   	</div>
 </details>
 
