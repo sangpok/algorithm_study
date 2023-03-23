@@ -16,10 +16,10 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="width: 25%;">
+      <td align="center" style="">
         <img src="https://static.solved.ac/tier_small/3.svg" height="19px" width="19px" />
       </td>
-      <td align="center" style="text-align: center; width: 25%;">
+      <td align="center" style="">
         <a href="https://www.acmicpc.net/problem/1085">1085</a>
       </td>
       <td align="center" style="width: 100%;">직사각형에서 탈출</td>
