@@ -1,6 +1,6 @@
 # algorithm_study
 
-<div align=center>
+<div align="center">
 <p><a href="https://solved.ac/class">solved.ac</a>의 Class 문제를 공부합니다.</p>
 <img src="https://static.solved.ac/class/c2s.svg" height="128px" width="128px" />
 <h3>현재 <span style="font-weight: 800; color: lightblue;">Class2++</span></h3>
@@ -16,13 +16,13 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; width: 25%;">
+      <td align="center" style="width: 25%;">
         <img src="https://static.solved.ac/tier_small/3.svg" height="19px" width="19px" />
       </td>
-      <td style="text-align: center; width: 25%;">
+      <td align="center" style="text-align: center; width: 25%;">
         <a href="https://www.acmicpc.net/problem/1085">1085</a>
       </td>
-      <td style="width: 100%;">직사각형에서 탈출</td>
+      <td align="center" style="width: 100%;">직사각형에서 탈출</td>
     </tr>
   </tbody>
 </table>
