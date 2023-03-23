@@ -6,23 +6,23 @@
 <h3>현재 <span style="font-weight: 800; color: lightblue;">Class2++</span></h3>
 </div>
 
-<table style="table-layout: fixed;">
+<table style="width: 100% !important">
   <thead>
     <tr>
-      <th>문제 등급</th>
-      <th>문제 번호</th>
-      <th>문제 제목</th>
+      <th style="width: 20%">문제 등급</th>
+      <th style="widht: 20%">문제 번호</th>
+      <th align="left" style="width: 1000px">문제 제목</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="">
+      <td align="center">
         <img src="https://static.solved.ac/tier_small/3.svg" height="19px" width="19px" />
       </td>
-      <td align="center" style="">
+      <td align="center">
         <a href="https://www.acmicpc.net/problem/1085">1085</a>
       </td>
-      <td align="center" style="width: 100%;">직사각형에서 탈출</td>
+      <td>직사각형에서 탈출</td>
     </tr>
   </tbody>
 </table>
