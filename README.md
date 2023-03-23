@@ -6,21 +6,51 @@
 <h3>현재 <span style="font-weight: 800; color: lightblue;">Class2++</span></h3>
 </div>
 
+<table style="table-layout: fixed;">
+  <thead>
+    <tr>
+      <th>문제 등급</th>
+      <th>문제 번호</th>
+      <th>문제 제목</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; width: 25%;">
+        <img src="https://static.solved.ac/tier_small/3.svg" height="19px" width="19px" />
+      </td>
+      <td style="text-align: center; width: 25%;">
+        <a href="https://www.acmicpc.net/problem/1085">1085</a>
+      </td>
+      <td style="width: 100%;">직사각형에서 탈출</td>
+    </tr>
+  </tbody>
+</table>
+
 <details>
-	<summary>### 2023.03.13</summary>
-  	<div markdown="1">
-      <ul>
-        <li>
-          <img src="https://static.solved.ac/tier_small/3.svg" height="19px" width="19px" /> 1085 - [직사각형에서 탈출](https://www.acmicpc.net/problem/1085)
-        </li>
-        <li>
-          <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" /> 11866 - [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)
-        </li>
-        <li>
-              <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" /> 2231 - [분해합](https://www.acmicpc.net/problem/2231)
-        </li>
-      </ul>
-  	</div>
+  <summary><h3 style="display: inline-block">2023.03.13</h3></summary>
+  <div markdown="1">
+    <table>
+      <thead>
+        <tr>
+          <th style="width: 33%">문제 등급</th>
+          <th style="width: 33%">문제 번호</th>
+          <th style="width: 33%">문제 제목</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="text-align: center">
+            <img src="https://static.solved.ac/tier_small/3.svg" height="19px" width="19px" />
+          </td>
+          <td style="text-align: center">
+            <a href="https://www.acmicpc.net/problem/1085"> 1085 </a>
+          </td>
+          <td style="width: 100%">직사각형에서 탈출</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 </details>
 
 ### 2023.03.13
