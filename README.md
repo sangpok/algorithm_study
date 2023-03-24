@@ -41,7 +41,7 @@
         -
       </td>
       <td align="center">
-        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+        <img src="https://static.solved.ac/tier_small/6.svg" height="19px" width="19px" />
       </td>
       <td>
         <a href="https://www.acmicpc.net/problem/11651">11651</a>
@@ -54,7 +54,7 @@
         -
       </td>
       <td align="center">
-        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+        <img src="https://static.solved.ac/tier_small/9.svg" height="19px" width="19px" />
       </td>
       <td>
         <a href="https://www.acmicpc.net/problem/18111">18111</a>
@@ -80,7 +80,7 @@
         -
       </td>
       <td align="center">
-        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+        <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" />
       </td>
       <td>
         <a href="https://www.acmicpc.net/problem/4949">4949</a>
@@ -93,7 +93,7 @@
         -
       </td>
       <td align="center">
-        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+        <img src="https://static.solved.ac/tier_small/6.svg" height="19px" width="19px" />
       </td>
       <td>
         <a href="https://www.acmicpc.net/problem/7568">7568</a>
@@ -106,7 +106,7 @@
         2023.03.18
       </td>
       <td align="center">
-        <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" />
+        <img src="https://static.solved.ac/tier_small/8.svg" height="19px" width="19px" />
       </td>
       <td>
         <a href="https://www.acmicpc.net/problem/1966">1966</a>
@@ -119,7 +119,7 @@
         -
       </td>
       <td align="center">
-        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+        <img src="https://static.solved.ac/tier_small/8.svg" height="19px" width="19px" />
       </td>
       <td>
         <a href="https://www.acmicpc.net/problem/2108">2108</a>
@@ -132,7 +132,7 @@
         -
       </td>
       <td align="center">
-        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+        <img src="https://static.solved.ac/tier_small/9.svg" height="19px" width="19px" />
       </td>
       <td>
         <a href="https://www.acmicpc.net/problem/2805">2805</a>
@@ -145,7 +145,7 @@
         2023.03.16
       </td>
       <td align="center">
-        <img src="https://static.solved.ac/tier_small/7.svg" height="19px" width="19px" />
+        <img src="https://static.solved.ac/tier_small/9.svg" height="19px" width="19px" />
       </td>
       <td>
         <a href="https://www.acmicpc.net/problem/1654">1654</a>
@@ -158,7 +158,7 @@
         -
       </td>
       <td align="center">
-        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+        <img src="https://static.solved.ac/tier_small/9.svg" height="19px" width="19px" />
       </td>
       <td>
         <a href="https://www.acmicpc.net/problem/1874">1874</a>
@@ -171,7 +171,7 @@
         -
       </td>
       <td align="center">
-        <img src="https://static.solved.ac/tier_small/4.svg" height="19px" width="19px" />
+        <img src="https://static.solved.ac/tier_small/8.svg" height="19px" width="19px" />
       </td>
       <td>
         <a href="https://www.acmicpc.net/problem/1929">1929</a>
