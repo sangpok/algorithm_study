@@ -35,9 +35,7 @@ class Queue {
     }
 
     const shiftedNode = this._head;
-
     this._head = this._head._next;
-    this._head._prev = null;
 
     this._length--;
 
@@ -51,6 +49,8 @@ class Queue {
 
 function solution(n) {
   const queue = new Queue();
+  const cacheSet = new Set();
+
   let count = 0;
 
   if (n === 1) {
@@ -59,23 +59,28 @@ function solution(n) {
   }
 
   queue.push(n - 1);
+  cacheSet.add(n - 1);
 
   if (n % 2 === 0) {
     queue.push(n / 2);
+    cacheSet.add(n / 2);
   }
 
   if (n % 3 === 0) {
     queue.push(n / 3);
+    cacheSet.add(n / 3);
   }
 
   while (true) {
     count++;
 
-    for (let i = 0, size = queue.size; i < size; i++) {
+    const queueSize = queue.size;
+
+    for (let i = 0; i < queueSize; i++) {
       const shiftedValue = queue.shift();
 
       if (!shiftedValue) {
-        return 0;
+        break;
       }
 
       if (shiftedValue === 1) {
@@ -83,16 +88,19 @@ function solution(n) {
         return;
       }
 
-      if (Number.isInteger(shiftedValue)) {
+      if (!cacheSet.has(shiftedValue - 1)) {
         queue.push(shiftedValue - 1);
+        cacheSet.add(shiftedValue - 1);
+      }
 
-        if (shiftedValue % 2 === 0) {
-          queue.push(shiftedValue / 2);
-        }
+      if (!(shiftedValue % 2) && !cacheSet.has(shiftedValue / 2)) {
+        queue.push(shiftedValue / 2);
+        cacheSet.add(shiftedValue / 2);
+      }
 
-        if (shiftedValue % 3 === 0) {
-          queue.push(shiftedValue / 3);
-        }
+      if (!(shiftedValue % 3) && !cacheSet.has(shiftedValue / 3)) {
+        queue.push(shiftedValue / 3);
+        cacheSet.add(shiftedValue / 3);
       }
     }
   }
