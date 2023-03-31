@@ -2,100 +2,42 @@ const fs = require('fs');
 const filePath = process.platform === 'linux' ? '/dev/stdin' : __dirname + '/input.txt';
 const L = fs.readFileSync(filePath).toString();
 
-class Node {
-  constructor(value) {
-    this._next = null;
-    this._value = value;
-  }
-}
-
-class Queue {
-  constructor() {
-    this._head = null;
-    this._rear = null;
-    this._length = 0;
-  }
-
-  push(value) {
-    const newNode = new Node(value);
-
-    if (!this._length) {
-      this._head = newNode;
-    } else {
-      this._rear._next = newNode;
-    }
-
-    this._rear = newNode;
-    this._length++;
-  }
-
-  shift() {
-    if (!this._length) {
-      return null;
-    }
-
-    const shiftedNode = this._head;
-
-    this._head = this._head._next;
-    this._head._prev = null;
-
-    this._length--;
-
-    return shiftedNode._value;
-  }
-
-  get size() {
-    return this._length;
-  }
-}
-
 function solution(n) {
-  const queue = new Queue();
+  const cacheSet = new Set();
+
+  let BFSQueue = [n];
   let count = 0;
 
-  if (n === 1) {
-    console.log(0);
-    return;
-  }
+  while (BFSQueue.length) {
+    const newQueue = [];
 
-  queue.push(n - 1);
+    for (let queueIndex = 0, queueCount = BFSQueue.length; queueIndex < queueCount; queueIndex++) {
+      const currentNum = BFSQueue[queueIndex];
 
-  if (n % 2 === 0) {
-    queue.push(n / 2);
-  }
-
-  if (n % 3 === 0) {
-    queue.push(n / 3);
-  }
-
-  while (true) {
-    count++;
-
-    for (let i = 0, size = queue.size; i < size; i++) {
-      const shiftedValue = queue.shift();
-
-      if (!shiftedValue) {
-        return 0;
-      }
-
-      if (shiftedValue === 1) {
+      if (currentNum === 1) {
         console.log(count);
         return;
       }
 
-      if (Number.isInteger(shiftedValue)) {
-        queue.push(shiftedValue - 1);
+      if (!(currentNum % 3) && !cacheSet.has(currentNum / 3)) {
+        newQueue.push(currentNum / 3);
+        cacheSet.add(currentNum / 3);
+      }
 
-        if (shiftedValue % 2 === 0) {
-          queue.push(shiftedValue / 2);
-        }
+      if (!(currentNum % 2) && !cacheSet.has(currentNum / 2)) {
+        newQueue.push(currentNum / 2);
+        cacheSet.add(currentNum / 2);
+      }
 
-        if (shiftedValue % 3 === 0) {
-          queue.push(shiftedValue / 3);
-        }
+      if (!cacheSet.has(currentNum - 1)) {
+        newQueue.push(currentNum - 1);
+        cacheSet.add(currentNum - 1);
       }
     }
+
+    BFSQueue = newQueue;
+    count++;
   }
 }
 
-solution(Number(L), 0);
+solution(Number(L));
